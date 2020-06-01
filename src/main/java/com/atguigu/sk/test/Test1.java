@@ -4,4 +4,8 @@ public class Test1 {
     public void masterTest() {
 
     }
+
+    public void run() {
+
+    }
 }
